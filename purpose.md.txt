@@ -1,0 +1,4 @@
+# myDocTest
+Documents
+
+Purpose:  Describe the approach to Document Management
